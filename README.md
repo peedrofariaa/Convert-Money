@@ -7,5 +7,3 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JS</li>
-<br>
-<p>Tela inicial:</p>
